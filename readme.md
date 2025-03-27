@@ -16,10 +16,6 @@ Nemesis is a powerful moderation bot designed to keep your server safe and secur
 - **Detailed Logs**: Keeps track of all moderation actions for transparency and review.  
 - **User History**: View a user's warning and moderation history at any time.  
 
-### ⚙️ Customization  
-- **Configurable Settings**: Tailor Nemesis to fit your server's unique needs.  
-- **Role-Based Permissions**: Assign moderation capabilities to specific roles.  
-
 ## Getting Started  
 
 1. **Invite Nemesis**: Add Nemesis to your server using the invite link.  
@@ -28,7 +24,7 @@ Nemesis is a powerful moderation bot designed to keep your server safe and secur
 
 ## Support  
 
-For help or to report issues, visit our [Support Server](#) or check out the [Documentation](#).  
+For help or to report issues, visit our [Support Server](https://discord.gg/Hwy7jRC47J) or check out the [Documentation](https://github.com/Swishhyy/Nemesis-Bot/wiki).  
 
 ---  
 
